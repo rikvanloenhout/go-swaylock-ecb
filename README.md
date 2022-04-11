@@ -17,7 +17,6 @@ Run `go install github.com/rikvanloenhout/go-swaylock-ecb@latest`.
 Run `go-swaylock-ecb` to lock your screen. 
 
 ## TODOs
-- Installation instructions
 - Extinguish vertical line pattern
 - Improve performance (drastically)
 
