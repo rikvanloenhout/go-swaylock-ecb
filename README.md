@@ -1,9 +1,11 @@
 # go-swaylock-ecb
-AES-128 ECB mode encrypted screenshots for all outputs as a background for swaylock. 
+AES-128 ECB mode encrypted screenshots for swaylock. 
 
-When executed, the program will take screenshots using `grim`, encrypt them AES-128 in ECB mode and run `swaylock` with the encrypted screenshots as wallpapers for each output.
+`go-swaylock-ecb` takes screenshots of your monitor output and encrypts them with AES-128 in ECB mode (known for the ECB penguin) and open `swaylock` with the encrypted output as a background.
 
 For more information on how this works and why it is cool, please read [The ECB Penguin by Filippo Valsorda](https://words.filippo.io/the-ecb-penguin/).
+
+> :warning: Please note that this program's function is purely aesthetical. Encrypting the background of your lockscreen does not increase privacy or security.
 
 ## Dependencies
 - [go](https://github.com/golang/go)
