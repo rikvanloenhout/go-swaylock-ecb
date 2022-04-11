@@ -16,5 +16,10 @@ TODO
 ## Usage
 Execute `go-swaylock-ecb` to lock your screen. 
 
+## TODOs
+- Installation instructions
+- Extinguish vertical line pattern
+- Improve performance (drastically)
+
 ## Example sceenshot
 ![AES-ECB encrypted screenshot of a 4k output](examples/screenshot.png "4k AES-EDB encrypted screenshot")

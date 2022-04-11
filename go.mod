@@ -1,4 +1,4 @@
-module gitlab.com/rkvl/swaylock-crypto
+module gitlab.com/rkvl/go-swaylock-ecb
 
 go 1.18
 
