@@ -1,4 +1,4 @@
-module gitlab.com/rkvl/go-swaylock-ecb
+module github.com/rikvanloenhout/go-swaylock-ecb
 
 go 1.18
 

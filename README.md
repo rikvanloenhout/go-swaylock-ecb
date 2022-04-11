@@ -11,10 +11,10 @@ For more information on how this works and why it is cool, please read [The ECB 
 - [grim](https://sr.ht/~emersion/grim/)
 
 ## Installation
-TODO
+Run `go install github.com/rikvanloenhout/go-swaylock-ecb@latest`.
 
 ## Usage
-Execute `go-swaylock-ecb` to lock your screen. 
+Run `go-swaylock-ecb` to lock your screen. 
 
 ## TODOs
 - Installation instructions
