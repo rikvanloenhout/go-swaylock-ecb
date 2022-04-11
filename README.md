@@ -1,5 +1,5 @@
 # go-swaylock-ecb
-AES-ECB encrypted screenshots for all outputs as a background for swaylock. 
+AES-128 ECB mode encrypted screenshots for all outputs as a background for swaylock. 
 
 When executed, the program will take screenshots using `grim`, encrypt them AES-128 in ECB mode and run `swaylock` with the encrypted screenshots as wallpapers for each output.
 
